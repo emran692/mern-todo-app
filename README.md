@@ -159,7 +159,7 @@ Then open 👉 [http://localhost:3000](http://localhost:3000)
 
 ## 🧑‍💻 Author
 
-👤 **Muhammed AL-Imran**
+👤 **MD AL EMRAN**
 🎓 Student | CSE (AI & ML)
 🌐 GitHub: [emran692](https://github.com/emran692)
 
