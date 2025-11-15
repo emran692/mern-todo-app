@@ -1,9 +1,3 @@
-![aweh](https://github.com/user-attachments/assets/4894cf1f-ca68-4829-9ac2-6cbd7ee08c96)
-![aaf](https://github.com/user-attachments/assets/f448050d-934a-43b3-9a27-4efbb863f958)
-![SFG](https://github.com/user-attachments/assets/8ba1891d-25a4-4e56-84a7-f10d7176867d)
-![JF](https://github.com/user-attachments/assets/b521c417-0b60-4a19-b54d-2864243259fd)
-![KUTD](https://github.com/user-attachments/assets/c334747b-a678-4700-ac30-25d1652294ab)
-![CJ](https://github.com/user-attachments/assets/c7aed93b-57a8-4635-9373-af7da6b7c176)
 # 📝 MERN Todo Application
 
 A **full-stack productivity app** built using the **MERN stack (MongoDB, Express.js, React, Node.js)**.
